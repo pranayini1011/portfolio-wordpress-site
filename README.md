@@ -24,6 +24,7 @@ Built with WordPress to showcase my projects, skills, and certifications.
 - Basics of UI and design thinking
 
 ## 📄 Resume
+Download My Resume (https://github.com/pranayini1011/portfolio-wordpress-site/blob/main/Pranayini.Resume.pdf)
 My updated resume is included in this repo for reference.
 
 ## 🛠️ Tools Used
