@@ -14,7 +14,7 @@ Built with WordPress to showcase my projects, skills, and certifications.
 - Home Page 
 - About Me Page (https://github.com/pranayini1011/portfolio-wordpress-site/blob/main/AboutMe%20Page.png)
 - My Projects Page
-- Contact Me Page
+- Contact Me Page (https://github.com/pranayini1011/portfolio-wordpress-site/blob/main/ContactMe%20Page.png)
 - Footer Page
 
 ## 🧠 What I Learned:
