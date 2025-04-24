@@ -11,7 +11,7 @@ Built with WordPress to showcase my projects, skills, and certifications.
 - Practiced design layout, mobile responsiveness, and basic SEO
 
 ## 📷 Screenshots:
-- Home Page (https://github.com/pranayini1011/portfolio-wordpress-site/blob/main/Homepage.png)
+- [Home Page] (https://github.com/pranayini1011/portfolio-wordpress-site/blob/main/Homepage.png)
 - About Me Page (https://github.com/pranayini1011/portfolio-wordpress-site/blob/main/AboutMe%20Page.png)
 - My Projects Page (https://github.com/pranayini1011/portfolio-wordpress-site/blob/main/MyProjects%20Page.png)
 - Contact Me Page (https://github.com/pranayini1011/portfolio-wordpress-site/blob/main/ContactMe%20Page.png)
